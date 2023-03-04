@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <conio.h>
 
 /*
 1) Объявить вещественные переменные a, b, с и задать их значения;
